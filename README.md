@@ -1,12 +1,12 @@
-## Team name: obsequious-mara, Members: DianaVashti
-## goal #228 Goal Design and Build
+# Team name: obsequious-mara, Members: DianaVashti
+# goal #228 Goal Design and Build
 
 This is a demo of goal #68:
 
-# blackjack-console-game
+## blackjack-console-game
 
-##Notes for reviewer:
-
+## Notes for reviewer:
+- The file for the goal design itself is called `GoalDescription.md` and is copied in this repo. 
 - To run this program:
   - Clone this repo and run `npm i` to install dependencies. Make sure the node version you are using supports es6 syntax (I am using node version 7.2.1)
   - `npm run test` will run the tests
