@@ -73,7 +73,7 @@ Stretch:
 - [ ] The payout on a natural blackjack is 3:2 instead of 1:1
 
 
-Here is an example of how one round of your game might look in your repo:
+Here is an example of how one round of your game might look in your repo (The demo version used a bank that has both money and objects as payroll. What will you do to make your version unique? Have fun with it!):
 ![Alt Text](./ScreenShot.png?raw=true "ScreenShot")
 
 
