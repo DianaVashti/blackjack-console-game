@@ -72,6 +72,11 @@ Stretch:
 - [ ] There is a multiplayer format without a dealer ( player vs. player: Game ends when one player is out of bankroll )
 - [ ] The payout on a natural blackjack is 3:2 instead of 1:1
 
+
+Here is an example of how one round of your game might look in your repo:
+![Alt Text](./ScreenShot.png?raw=true "ScreenShot")
+
+
 ## Resources
 ## Here are 4 different options for adding user prompts to your commandline:
 Readline-sync: https://www.npmjs.com/package/readline-sync
