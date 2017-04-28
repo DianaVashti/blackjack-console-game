@@ -1,7 +1,10 @@
 # Team name: obsequious-mara, Members: DianaVashti
 # goal #228 Goal Design and Build
 
-This is a demo of goal #68:
+This goal was to design and demo a goal to be added to the goal library. The goal description has a PR that been issued against the GuildCrafts repo. The contents of that PR are included locally in the file called `GoalDescription.md` Please reference that file for the specs relating to the goal design. The demo of the goal begins below:
+
+
+# This is a demo of goal #68:
 
 ## blackjack-console-game
 
