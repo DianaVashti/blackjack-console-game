@@ -6,7 +6,7 @@ team_size: 2
 goal_id: 68
 created_at: '2017-04-24T09:34:55Z'
 labels:
-- Games, Console, JavaScript basics
+- Games, Shell, JavaScript basics
 level: 1
 published: false
 redirect_from: '/goals/68'
